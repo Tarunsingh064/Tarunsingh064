@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Tarunsingh064
 - 👀 I’m interested in everything
 - 🌱 I’m currently learning full stack dev
-- 💞️ I’m looking to collaborate on new things
+- 💞️ I’m looking to collaborate with anyone 
 - 📫 How to reach me tarunworkonly@gmail.com
-- 😄 Pronouns: He
+- 😄 Pronouns: 
 - ⚡ Fun fact: I am SPY  
 
 <!---
