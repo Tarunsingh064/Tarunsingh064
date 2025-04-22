@@ -11,10 +11,26 @@ I'm Tarunsingh064, a passionate developer and open-source enthusiast. Welcome to
 - ⚡ Fun fact: **I love exploring new front-end and back-end frameworks!**
 
 ## 🛠️ Skills
-- **Programming Languages:** JavaScript, Python, SQL
-- **Frameworks & Libraries:** React, Django, Django REST Framework, TailwindCSS
-- **Tools & Platforms:** Git, GitHub
-- **Databases:** PostgreSQL, MySQL, SQLite
+
+### Programming Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=MySQL&logoColor=white)
+
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=Django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/Django%20REST-%23F05138.svg?style=for-the-badge&logo=django&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=TailwindCSS&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
+![SQLite](https://img.sh
 
 
 ## 🌐 Connect with Me
