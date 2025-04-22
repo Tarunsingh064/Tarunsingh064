@@ -30,7 +30,7 @@ I'm Tarunsingh064, a passionate developer and open-source enthusiast. Welcome to
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
-![SQLite](https://img.sh
+![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white)
 
 
 ## 🌐 Connect with Me
