@@ -1,27 +1,30 @@
-# Hi there 👋, I'm Tarun Singh!
+# Hi there! 👋
 
-### 💻 About Me
-- 🌱 I’m currently learning new technologies and frameworks to become a better developer.
-- 🔭 I’m working on personal projects and contributing to open-source.
-- 🎯 My goal is to solve real-world problems through innovative software solutions.
-- 📫 How to reach me: [Email Me](mailto:tarunsingh064@gmail.com)
+I'm Tarunsingh064, a passionate developer and open-source enthusiast. Welcome to my GitHub profile! 🚀
 
-### ⚡ Technologies I Work With
-- **Languages:** JavaScript, Python, Java
-- **Frameworks & Libraries:** React, Node.js, Express
-- **Databases:** MongoDB, MySQL
-- **Tools & Platforms:** Git, Docker, GitHub Actions
-- **Other:** REST APIs, GraphQL, Cloud Computing
+## About Me
+- 🔭 I’m currently working on **building projects with modern web technologies**
+- 🌱 I’m currently learning **advanced concepts in React, Django, and REST API development**
+- 👯 I’m looking to collaborate on **React, Django, and open-source projects**
+- 💬 Ask me about **JavaScript, React, Python, Django, and SQL**
+- 📫 How to reach me: **Check out my social media links below!**
+- ⚡ Fun fact: **I love exploring new front-end and back-end frameworks!**
 
-### 🌐 Connect With Me:
-- [LinkedIn](https://www.linkedin.com/in/tarunsingh064/)
-- [Twitter](https://twitter.com/Tarunsingh064)
-- [GitHub](https://github.com/Tarunsingh064)
+## 🛠️ Skills
+- **Programming Languages:** JavaScript, Python, SQL
+- **Frameworks & Libraries:** React, Django, Django REST Framework, TailwindCSS
+- **Tools & Platforms:** Git, GitHub
+- **Databases:** PostgreSQL, MySQL, SQLite
 
-### 📈 GitHub Stats
-![Tarun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tarunsingh064&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarunsingh064&layout=compact&theme=radical)
+
+## 🌐 Connect with Me
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/tarun_046)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarun-singh-80ab4223a/)
+[![X (formerly Twitter)](https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/TarunSingh0799)
+
+## 📈 GitHub Stats
+![Tarunsingh064's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tarunsingh064&show_icons=true&theme=radical)
 
 ---
 
-⭐️ *Feel free to star any of my repos if you find them useful!*
+Thanks for stopping by! 😊 Feel free to explore my repositories and connect with me for collaborations.
