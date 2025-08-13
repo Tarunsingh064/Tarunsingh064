@@ -39,6 +39,9 @@ I'm Tarunsingh064, a passionate developer and open-source enthusiast. Welcome to
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-%2347A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
+![Database Launcher](https://img.shields.io/badge/Database%20Launcher-%2300758F.svg?style=for-the-badge&logo=Database&logoColor=white)
 
 ## 🌐 Connect with Me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/tarun_046)
